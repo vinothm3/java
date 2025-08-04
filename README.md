@@ -1,1 +1,1 @@
-# java project to demonstract my knowledge.
+# Home manager helper.
